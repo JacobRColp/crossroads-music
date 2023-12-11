@@ -1,0 +1,9 @@
+- Spotify API
+    - Tracks have an "Audio Analysis" endpoint
+        - Could we take the Crossroads song catalog and compare the Audio Analysis against the Audio Analysis of the "Top 100 Christian Songs" playlist
+            - Trying to understand how the style compares against what is working currently
+- Need to know what data we currently have. Has Ryan done anything with warehousing of the streaming data?
+
+- I'm curious about the impact of the songs "Audio Features" vs. popularity
+    - Is there correlation between any of those and popularity
+    - Maybe do PCA on the audio features?
